@@ -85,3 +85,6 @@ predicted_category = le.inverse_transform(prediction)[0]
 print(f"Predicted Product Category: {predicted_category}")
 ```
 ### Screenshots
+![ss](https://github.com/Varshith34/KaiburrTask5/blob/f1856996c5b51471715a8c83dd3d6b92fe941b39/Task5.1.png)
+![ss](https://github.com/Varshith34/KaiburrTask5/blob/f1856996c5b51471715a8c83dd3d6b92fe941b39/Task5.2.png)
+![ss](https://github.com/Varshith34/KaiburrTask5/blob/f1856996c5b51471715a8c83dd3d6b92fe941b39/Task5.3.png)
